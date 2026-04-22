@@ -1,10 +1,11 @@
+
 namespace GlobalPorts;
 
 
 public class ContentorLegacy: IContentor
 {
     private string _CodigoRastreio;            
-    private string _TipoMaterial;                    // Pode ser "Comum", "Refrigerado" ou "Toxico"
+    private string _TipoMaterial;                   
     private double _PesoToneladas;
     private bool _IsAprovadoInspecao;
 
@@ -44,10 +45,6 @@ public class ContentorLegacy: IContentor
         TipoMaterial = tipo;
         PesoToneladas = peso;
         IsAprovadoInspecao = inspecao;
-    }
-  
-    
-    
-      
+    }  
 }
 

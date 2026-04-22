@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\trabalho_c#\\TrabalhoCSharp\\TrabalhoCSharp.csproj": {}
+    "D:\\PROGRAMAS\\Trabalho-CSharp\\TrabalhoCSharp\\TrabalhoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\trabalho_c#\\TrabalhoCSharp\\TrabalhoCSharp.csproj": {
+    "D:\\PROGRAMAS\\Trabalho-CSharp\\TrabalhoCSharp\\TrabalhoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\trabalho_c#\\TrabalhoCSharp\\TrabalhoCSharp.csproj",
+        "projectUniqueName": "D:\\PROGRAMAS\\Trabalho-CSharp\\TrabalhoCSharp\\TrabalhoCSharp.csproj",
         "projectName": "TrabalhoCSharp",
-        "projectPath": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\trabalho_c#\\TrabalhoCSharp\\TrabalhoCSharp.csproj",
+        "projectPath": "D:\\PROGRAMAS\\Trabalho-CSharp\\TrabalhoCSharp\\TrabalhoCSharp.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\trabalho_c#\\TrabalhoCSharp\\obj\\",
+        "outputPath": "D:\\PROGRAMAS\\Trabalho-CSharp\\TrabalhoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

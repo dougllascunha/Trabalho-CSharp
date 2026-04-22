@@ -3,7 +3,7 @@ using GlobalPorts;
 
 public class SistemaPortoLegacy 
 {
-    // 2. Falha de Coleção: Array de tamanho fixo. Vai quebrar ou perder dados.
+   
     private Dictionary<string, IContentor> _patio = new Dictionary<string, IContentor>();
     private Queue<IContentor> _fila = new Queue<IContentor>();
 
@@ -71,8 +71,6 @@ public class SistemaPortoLegacy
     Console.WriteLine($"[LOG] [{DateTime.Now}] Embarque concluído.");
 
     }
-
-
 
 }
 
